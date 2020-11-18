@@ -18,3 +18,5 @@
 # <a href="http://get.videolan.org/vlc/3.0.11/vlc-3.0.11.tar.xz">vlc player 源代码</a>
 # <a href="https://github.com/kennycaiguo/mpc-hc">Media Player Classic - Home Cinema</a>
 # <a href="https://github.com/videolan/vlc">vlc player源码2</a>
+# <a href="https://github.com/kennycaiguo/smplayer">smplayer源码</a>
+# <a href="https://github.com/mltframework/shotcut/releases/download/v20.10.31/shotcut-src-201031.txz">视频编辑器shortcut源代码</a>
