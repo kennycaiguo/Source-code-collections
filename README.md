@@ -21,3 +21,4 @@
 # <a href="https://github.com/kennycaiguo/smplayer">smplayer源码</a>
 # <a href="https://github.com/mltframework/shotcut/releases/download/v20.10.31/shotcut-src-201031.txz">视频编辑器shortcut源代码</a>
 # <a href="https://itigic.com/zh-CN/best-free-and-open-source-video-editing-programs/">最佳的免费和开源视频编辑程序</a>
+# <a href="https://zhuanlan.zhihu.com/p/48413946?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=1253444884654284800">Linux 上最好的 9 个免费视频编辑软件（2018）</a>
