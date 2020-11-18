@@ -16,3 +16,5 @@
 # <a href="https://github.com/kennycaiguo/xp-messenger-webbchat">nodejs版本的webchat</a>
 # <a href="https://zh-cn.libreoffice.org/download/source-code/">libreOffice源代码下载</a>
 # <a href="http://get.videolan.org/vlc/3.0.11/vlc-3.0.11.tar.xz">vlc player 源代码</a>
+# <a href="https://github.com/kennycaiguo/mpc-hc">Media Player Classic - Home Cinema</a>
+# <a href="https://github.com/videolan/vlc">vlc player源码2</a>
