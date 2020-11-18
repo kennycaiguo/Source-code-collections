@@ -15,3 +15,4 @@
 # <a href="https://github.com/sebbekarlsson/MSN">python版本的msn messenger</a>
 # <a href="https://github.com/kennycaiguo/xp-messenger-webbchat">nodejs版本的webchat</a>
 # <a href="https://zh-cn.libreoffice.org/download/source-code/">libreOffice源代码下载</a>
+# <a href="http://get.videolan.org/vlc/3.0.11/vlc-3.0.11.tar.xz">vlc player 源代码</a>
