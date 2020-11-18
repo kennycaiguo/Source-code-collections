@@ -12,4 +12,6 @@
 # <a href="https://github.com/kennycaiguo/7zip">7zip源码</a>
 # <a href="https://github.com/kennycaiguo/nothing-to-say">java版icq</a>
 # <a href="https://github.com/kennycaiguo/GillyMessenger">vb.net 版本messenger</a>
-# <a href="https://github.com/sebbekarlsson/MSN">python版本的msn messenger<a>
+# <a href="https://github.com/sebbekarlsson/MSN">python版本的msn messenger</a>
+# <a href="https://github.com/kennycaiguo/xp-messenger-webbchat">nodejs版本的webchat</a>
+# <a href="https://zh-cn.libreoffice.org/download/source-code/">libreOffice源代码下载</a>
