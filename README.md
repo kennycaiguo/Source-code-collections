@@ -20,3 +20,4 @@
 # <a href="https://github.com/videolan/vlc">vlc player源码2</a>
 # <a href="https://github.com/kennycaiguo/smplayer">smplayer源码</a>
 # <a href="https://github.com/mltframework/shotcut/releases/download/v20.10.31/shotcut-src-201031.txz">视频编辑器shortcut源代码</a>
+# <a href="https://itigic.com/zh-CN/best-free-and-open-source-video-editing-programs/">最佳的免费和开源视频编辑程序</a>
