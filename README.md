@@ -29,3 +29,4 @@
 # <a href="https://my.vmware.com/web/vmware/downloads/details?downloadGroup=WKST-805-OSS&productId=241">VMware Workstation 8.0.5 and Player 4.0.5 Open Source</a>
 # <a href="https://github.com/kennycaiguo/openwrt">OpenWrt</a>
 # <a href="https://mirrors.tuna.tsinghua.edu.cn/">清华大学开源软件镜像站</a>
+# <a href="https://github.com/kohtala/partimage">类似以ghost的镜像处理软件源码</a>
