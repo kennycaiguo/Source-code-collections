@@ -27,3 +27,5 @@
 # <a href="https://github.com/kennycaiguo/virtualbox">virtualbox源代码</a>
 # <a href="https://www.jianshu.com/p/cf87519f256c">virtualbox编译记录</a>
 # <a href="https://my.vmware.com/web/vmware/downloads/details?downloadGroup=WKST-805-OSS&productId=241">VMware Workstation 8.0.5 and Player 4.0.5 Open Source</a>
+# <a href="https://github.com/kennycaiguo/openwrt">OpenWrt</a>
+# <a href="https://mirrors.tuna.tsinghua.edu.cn/">清华大学开源软件镜像站</a>
