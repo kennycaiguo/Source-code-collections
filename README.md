@@ -35,3 +35,14 @@
 # <a href="https://github.com/kennycaiguo/FreeDownloadManager/tree/master">free download manager 源代码</a>
 # <a href="https://github.com/kennycaiguo/clonezilla">ghost类似软件clonezilla（Linux）</a>
 # <a href="http://git.savannah.gnu.org/cgit/doclone.git/snapshot/doclone-RELEASE-0.8.0.tar.gz">类ghost软件deClone（linux）</a>
+ # <a href="https://sourceforge.net/projects/mingw/files/MinGW/Base/w32api/w32api-5.0.2/"> w32api-5.0.2</a>
+ # <a href="https://sourceforge.net/projects/mingw/files/MinGW/Base/gcc/Version6/gcc-6.3.0/"> gcc-6.3.0</a>
+ # <a href="http://www.lua.org/ftp/lua-5.3.3.tar.gz">lua源代码</a>
+ # <a href="https://dev.mysql.com/downloads/mysql/?spm=a2c6h.12873639.0.0.68e61a14hZBI3h">mysql源代码</a>
+ # <a href="https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%8F%8A%E5%BC%80%E6%94%BE%E6%BA%90%E4%BB%A3%E7%A0%81%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8#.E5.8D.B3.E6.97.B6.E9.80.9A.E8.AE.AF.E8.BD.AF.E4.BB.B6">自由及开放源代码软件列表</a>
+ # <a href="http://xiazai.zol.com.cn/detail/41/405601.shtml">QQ机器人(源代码) 0.1.3</a>
+ # <a href="https://hxy.guet.site/2019/09/01/compile-jdk11-and-debug-use-clion/">源码编译OpenJdk11并使用Clion调试</a>
+ # <a href="https://blog.csdn.net/qq_35865125/article/details/87849891">linux编译、安装Qt源代码</a>
+ # <a href="https://blog.csdn.net/xiaoxiaoyusheng2012/article/details/45196879">windows下QT源码编译</a>
+ # <a href="https://www.lagou.com/lgeduarticle/9572.html">Qt最新版5.12.2在Win10环境静态编译安装和部署的完整过程(VS2017)</a>
+ # <a href="https://zhang0peter.com/qt-5.14-static-link/">Qt最新版5.14在Windows环境静态编译安装和部署的完</a> 
