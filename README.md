@@ -52,4 +52,4 @@
  # <a href="https://www.lagou.com/lgeduarticle/9572.html">Qt最新版5.12.2在Win10环境静态编译安装和部署的完整过程(VS2017)</a>
  # <a href="https://zhang0peter.com/qt-5.14-static-link/">Qt最新版5.14在Windows环境静态编译安装和部署的完</a> 
  # <a href="https://www.cnblogs.com/liangqihui/p/9189944.html">26款 网络会议/视频会议开源软件</a>
- 
+ # <a href="https://www.open-open.com/lib/view/open1411048209906.html">视频会议及流媒体十大开源项目</a>
