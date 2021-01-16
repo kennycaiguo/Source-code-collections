@@ -59,3 +59,4 @@
  # <a href="https://github.com/kennycaiguo/ICQ">java版ICQ</a>
  # <a href="https://github.com/fungosforks/icq-desktop">c++ icqdesktop</a>
  # <a href="https://gitee.com/explore/im">gitee上面的即时通讯项目</a>
+ # <a href="https://github.com/kennycaiguo/RabbitIm">玉兔即时通讯</a>
