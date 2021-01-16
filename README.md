@@ -53,3 +53,4 @@
  # <a href="https://zhang0peter.com/qt-5.14-static-link/">Qt最新版5.14在Windows环境静态编译安装和部署的完</a> 
  # <a href="https://www.cnblogs.com/liangqihui/p/9189944.html">26款 网络会议/视频会议开源软件</a>
  # <a href="https://www.open-open.com/lib/view/open1411048209906.html">视频会议及流媒体十大开源项目</a>
+ # <a href="https://github.com/kennycaiguo/beebeep">开源即时通讯软件beeBEEP</a>
