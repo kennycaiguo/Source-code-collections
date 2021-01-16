@@ -55,3 +55,4 @@
  # <a href="https://www.open-open.com/lib/view/open1411048209906.html">视频会议及流媒体十大开源项目</a>
  # <a href="https://github.com/kennycaiguo/beebeep">开源即时通讯软件beeBEEP</a>
  # <a href="https://github.com/kennycaiguo/java-mibew-messenger">mibew java 即时通讯软件</a>
+ # <a href="https://github.com/kennycaiguo/pidgin"> 即时通讯软件pigdin</a> 
