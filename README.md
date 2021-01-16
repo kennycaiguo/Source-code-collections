@@ -57,3 +57,4 @@
  # <a href="https://github.com/kennycaiguo/java-mibew-messenger">mibew java 即时通讯软件</a>
  # <a href="https://github.com/kennycaiguo/pidgin"> 即时通讯软件pigdin</a> 
  # <a href="https://github.com/kennycaiguo/ICQ">java版ICQ</a>
+ # <a href="https://github.com/fungosforks/icq-desktop">c++ icqdesktop</a>
