@@ -69,3 +69,4 @@
  # <a href="https://github.com/kennycaiguo/FFmpeg">FFmpeg-著名音视频开源软件</a>
  # <a href="https://github.com/kennycaiguo/screen-capture-recorder-to-video-windows-free">ScreenCapture</a>
  # <a href="https://github.com/kennycaiguo/videoInput">video capture library for windows</a>
+ # <a href="https://github.com/kennycaiguo/WechatShortVideo">仿微信短视频软件</a>
