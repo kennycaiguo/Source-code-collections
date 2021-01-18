@@ -68,3 +68,4 @@
  # <a href="https://github.com/kennycaiguo/EvilsLive">一个视频直播开源项目--EvilsLive</a>
  # <a href="https://github.com/kennycaiguo/FFmpeg">FFmpeg-著名音视频开源软件</a>
  # <a href="https://github.com/kennycaiguo/screen-capture-recorder-to-video-windows-free">ScreenCapture</a>
+ # <a href="https://github.com/kennycaiguo/videoInput">video capture library for windows</a>
