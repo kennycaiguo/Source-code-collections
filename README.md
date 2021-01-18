@@ -61,3 +61,4 @@
  # <a href="https://gitee.com/explore/im">gitee上面的即时通讯项目</a>
  # <a href="https://github.com/kennycaiguo/RabbitIm">玉兔即时通讯</a>
  # <a href="https://github.com/kennycaiguo/kdenlive">kdenlive开源视频编辑器</a>
+ # <a href="https://wiki.blender.org/wiki/Building_Blender/Windows">视频编辑器blender项目源码下载</a>
