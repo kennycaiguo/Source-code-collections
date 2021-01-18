@@ -67,3 +67,4 @@
  # <a href="https://juejin.cn/post/6844903606559195149">18个实时音视频开发中会用到开源项目</a>
  # <a href="https://github.com/kennycaiguo/EvilsLive">一个视频直播开源项目--EvilsLive</a>
  # <a href="https://github.com/kennycaiguo/FFmpeg">FFmpeg-著名音视频开源软件</a>
+ # <a href="https://github.com/kennycaiguo/screen-capture-recorder-to-video-windows-free">ScreenCapture</a>
