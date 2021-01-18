@@ -64,3 +64,4 @@
  # <a href="https://wiki.blender.org/wiki/Building_Blender/Windows">视频编辑器blender项目源码下载</a>
  # <a href="https://zhuanlan.zhihu.com/p/62649633">推荐两个 GitHub 上开源的视频编辑神器</a>
  # <a href="https://github.com/kennycaiguo/obs-studio">一个强大的开源的录制、直播软件（obs-studio）</a>
+ # <a href="https://juejin.cn/post/6844903606559195149">18个实时音视频开发中会用到开源项目</a>
