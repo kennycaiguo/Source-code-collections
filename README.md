@@ -1,5 +1,6 @@
 # 收集的源代码
 # <a href="https://www.kernel.org/">Linux内核源代码下载</a>
+# <a href="https://github.com/kennycaiguo/vita">《深度探索Linux操作系统 : 系统构建和原理解析》 学习笔记</a>
 # <a href="https://github.com/xroche/httrack">整站备份工具 Httrack</a>
 # <a href="https://www.wwwbuild.net/daxiaxuepython/14054.html">推荐23个Python爬虫开源项目代码爬取微信淘宝豆瓣知乎</a>
 # <a href="https://github.com/AlloyTeam/Rythem">代理抓包/替换工具Rythem</a>
