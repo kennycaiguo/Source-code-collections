@@ -1,4 +1,5 @@
 # 收集的源代码
+# <a href="https://segmentfault.com/a/1190000008213473">Ruby 2.x 源代码学习：ubuntu 环境 下载，编译，调试 ruby 源代码</a>
 # <a href="https://github.com/chromium/chromium">chromium浏览器源代码下载</a>
 # <a href="https://github.com/kennycaiguo/CMake">构建工具CMake源代码</a>
 # <a href="https://www.kernel.org/">Linux内核源代码下载</a>
